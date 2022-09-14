@@ -1,0 +1,2 @@
+../modbus1 microtechnics/functions_src/mbfuncother.c:52:1:eMBSetSlaveID	24	static
+../modbus1 microtechnics/functions_src/mbfuncother.c:80:1:eMBFuncReportSlaveID	16	static

@@ -1,0 +1,3 @@
+../modbus1 microtechnics/port/src/portevent.c:37:6:xMBPortEventInit	4	static
+../modbus1 microtechnics/port/src/portevent.c:46:6:xMBPortEventPost	16	static
+../modbus1 microtechnics/port/src/portevent.c:56:6:xMBPortEventGet	24	static

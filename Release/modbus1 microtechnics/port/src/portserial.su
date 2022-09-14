@@ -1,0 +1,6 @@
+../modbus1 microtechnics/port/src/portserial.c:48:6:vMBPortSerialEnable	16	static
+../modbus1 microtechnics/port/src/portserial.c:81:6:xMBPortSerialInit	0	static
+../modbus1 microtechnics/port/src/portserial.c:89:6:xMBPortSerialPutByte	8	static
+../modbus1 microtechnics/port/src/portserial.c:99:6:xMBPortSerialGetByte	8	static
+../modbus1 microtechnics/port/src/portserial.c:125:6:HAL_UART_TxCpltCallback	0	static
+../modbus1 microtechnics/port/src/portserial.c:136:6:HAL_UART_RxCpltCallback	0	static

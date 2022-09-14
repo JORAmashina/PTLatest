@@ -1,0 +1,4 @@
+../modbus1 microtechnics/port/src/porttimer.c:50:6:xMBPortTimersInit	0	static
+../modbus1 microtechnics/port/src/porttimer.c:59:13:vMBPortTimersEnable	0	static
+../modbus1 microtechnics/port/src/porttimer.c:68:13:vMBPortTimersDisable	0	static
+../modbus1 microtechnics/port/src/porttimer.c:84:6:HAL_TIM_PeriodElapsedCallback	0	static

@@ -1,0 +1,4 @@
+../modbus1 microtechnics/functions_src/mbfuncholding.c:76:1:eMBFuncWriteHoldingRegister	8	static
+../modbus1 microtechnics/functions_src/mbfuncholding.c:109:1:eMBFuncWriteMultipleHoldingRegister	16	static
+../modbus1 microtechnics/functions_src/mbfuncholding.c:169:1:eMBFuncReadHoldingRegister	16	static
+../modbus1 microtechnics/functions_src/mbfuncholding.c:234:1:eMBFuncReadWriteMultipleHoldingRegister	24	static
